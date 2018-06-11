@@ -1,0 +1,56 @@
+882  [restartedMain] INFO  c.c.t.TrainingSystemApplication - Starting TrainingSystemApplication on PC2015070917RMX with PID 2764 (started by Administrator in E:\Admin\My Big Boss\training-system-backend) 
+883  [restartedMain] DEBUG c.c.t.TrainingSystemApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE 
+883  [restartedMain] INFO  c.c.t.TrainingSystemApplication - The following profiles are active: dev 
+172119 [restartedMain] INFO  c.c.t.TrainingSystemApplication - Started TrainingSystemApplication in 171.812 seconds (JVM running for 173.165) 
+199453 [http-nio-8080-exec-6] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Cannot add or update a child row: a foreign key constraint fails (`training_system`.`exam`, CONSTRAINT `FKbw3vhj6xjmlbg8fa9mrym32jj` FOREIGN KEY (`duration_id`) REFERENCES `duration` (`duration_id`)) 
+199472 [http-nio-8080-exec-6] ERROR c.c.t.e.CustomResponseEntityExceptionHandler - could not execute statement; SQL [n/a]; constraint [null]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement 
+1491 [restartedMain] INFO  c.c.t.TrainingSystemApplication - Starting TrainingSystemApplication on PC2015070917RMX with PID 3724 (started by Administrator in E:\Admin\My Big Boss\training-system-backend) 
+1491 [restartedMain] DEBUG c.c.t.TrainingSystemApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE 
+1491 [restartedMain] INFO  c.c.t.TrainingSystemApplication - The following profiles are active: dev 
+33185 [restartedMain] INFO  c.c.t.TrainingSystemApplication - Started TrainingSystemApplication in 32.469 seconds (JVM running for 35.273) 
+1508643 [http-nio-8080-exec-2] ERROR c.c.t.e.CustomResponseEntityExceptionHandler - JSON parse error: Can not deserialize instance of int out of START_ARRAY token; nested exception is com.fasterxml.jackson.databind.JsonMappingException: Can not deserialize instance of int out of START_ARRAY token
+ at [Source: java.io.PushbackInputStream@13209ef; line: 1, column: 29] (through reference chain: com.cmc.training.dto.ExamDTO["categoryId"]) 
+10220328 [restartedMain] INFO  c.c.t.TrainingSystemApplication - Starting TrainingSystemApplication on PC2015070917RMX with PID 3724 (started by Administrator in E:\Admin\My Big Boss\training-system-backend) 
+10220359 [restartedMain] DEBUG c.c.t.TrainingSystemApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE 
+10220359 [restartedMain] INFO  c.c.t.TrainingSystemApplication - The following profiles are active: dev 
+10775085 [restartedMain] INFO  c.c.t.TrainingSystemApplication - Starting TrainingSystemApplication on PC2015070917RMX with PID 3724 (started by Administrator in E:\Admin\My Big Boss\training-system-backend) 
+10775085 [restartedMain] DEBUG c.c.t.TrainingSystemApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE 
+10775085 [restartedMain] INFO  c.c.t.TrainingSystemApplication - The following profiles are active: dev 
+10793585 [restartedMain] INFO  c.c.t.TrainingSystemApplication - Started TrainingSystemApplication in 18.637 seconds (JVM running for 10795.434) 
+10914458 [restartedMain] INFO  c.c.t.TrainingSystemApplication - Starting TrainingSystemApplication on PC2015070917RMX with PID 3724 (started by Administrator in E:\Admin\My Big Boss\training-system-backend) 
+10914458 [restartedMain] DEBUG c.c.t.TrainingSystemApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE 
+10914458 [restartedMain] INFO  c.c.t.TrainingSystemApplication - The following profiles are active: dev 
+10927434 [restartedMain] INFO  c.c.t.TrainingSystemApplication - Started TrainingSystemApplication in 13.228 seconds (JVM running for 10929.286) 
+10962546 [restartedMain] INFO  c.c.t.TrainingSystemApplication - Starting TrainingSystemApplication on PC2015070917RMX with PID 3724 (started by Administrator in E:\Admin\My Big Boss\training-system-backend) 
+10962546 [restartedMain] DEBUG c.c.t.TrainingSystemApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE 
+10962546 [restartedMain] INFO  c.c.t.TrainingSystemApplication - The following profiles are active: dev 
+10969508 [restartedMain] INFO  c.c.t.TrainingSystemApplication - Started TrainingSystemApplication in 7.052 seconds (JVM running for 10971.355) 
+10977255 [restartedMain] INFO  c.c.t.TrainingSystemApplication - Starting TrainingSystemApplication on PC2015070917RMX with PID 3724 (started by Administrator in E:\Admin\My Big Boss\training-system-backend) 
+10977255 [restartedMain] DEBUG c.c.t.TrainingSystemApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE 
+10977255 [restartedMain] INFO  c.c.t.TrainingSystemApplication - The following profiles are active: dev 
+10982745 [restartedMain] INFO  c.c.t.TrainingSystemApplication - Started TrainingSystemApplication in 5.562 seconds (JVM running for 10984.59) 
+11041754 [restartedMain] INFO  c.c.t.TrainingSystemApplication - Starting TrainingSystemApplication on PC2015070917RMX with PID 3724 (started by Administrator in E:\Admin\My Big Boss\training-system-backend) 
+11041754 [restartedMain] DEBUG c.c.t.TrainingSystemApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE 
+11041754 [restartedMain] INFO  c.c.t.TrainingSystemApplication - The following profiles are active: dev 
+11046936 [restartedMain] INFO  c.c.t.TrainingSystemApplication - Started TrainingSystemApplication in 5.252 seconds (JVM running for 11048.787) 
+11072987 [restartedMain] INFO  c.c.t.TrainingSystemApplication - Starting TrainingSystemApplication on PC2015070917RMX with PID 3724 (started by Administrator in E:\Admin\My Big Boss\training-system-backend) 
+11072987 [restartedMain] DEBUG c.c.t.TrainingSystemApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE 
+11072987 [restartedMain] INFO  c.c.t.TrainingSystemApplication - The following profiles are active: dev 
+11077952 [restartedMain] INFO  c.c.t.TrainingSystemApplication - Started TrainingSystemApplication in 5.024 seconds (JVM running for 11079.795) 
+11095930 [restartedMain] INFO  c.c.t.TrainingSystemApplication - Starting TrainingSystemApplication on PC2015070917RMX with PID 3724 (started by Administrator in E:\Admin\My Big Boss\training-system-backend) 
+11095930 [restartedMain] DEBUG c.c.t.TrainingSystemApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE 
+11095930 [restartedMain] INFO  c.c.t.TrainingSystemApplication - The following profiles are active: dev 
+3538 [restartedMain] INFO  c.c.t.TrainingSystemApplication - Starting TrainingSystemApplication on PC2015070917RMX with PID 6312 (started by Administrator in E:\Admin\My Big Boss\training-system-backend) 
+3538 [restartedMain] DEBUG c.c.t.TrainingSystemApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE 
+3538 [restartedMain] INFO  c.c.t.TrainingSystemApplication - The following profiles are active: dev 
+11164144 [restartedMain] INFO  c.c.t.TrainingSystemApplication - Starting TrainingSystemApplication on PC2015070917RMX with PID 3724 (started by Administrator in E:\Admin\My Big Boss\training-system-backend) 
+11164144 [restartedMain] DEBUG c.c.t.TrainingSystemApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE 
+11164144 [restartedMain] INFO  c.c.t.TrainingSystemApplication - The following profiles are active: dev 
+11181456 [restartedMain] INFO  c.c.t.TrainingSystemApplication - Started TrainingSystemApplication in 17.382 seconds (JVM running for 11183.301) 
+11224074 [restartedMain] INFO  c.c.t.TrainingSystemApplication - Starting TrainingSystemApplication on PC2015070917RMX with PID 3724 (started by Administrator in E:\Admin\My Big Boss\training-system-backend) 
+11224074 [restartedMain] DEBUG c.c.t.TrainingSystemApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE 
+11224074 [restartedMain] INFO  c.c.t.TrainingSystemApplication - The following profiles are active: dev 
+2746 [restartedMain] INFO  c.c.t.TrainingSystemApplication - Starting TrainingSystemApplication on PC2015070917RMX with PID 8092 (started by Administrator in E:\Admin\My Big Boss\training-system-backend) 
+2766 [restartedMain] DEBUG c.c.t.TrainingSystemApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE 
+2766 [restartedMain] INFO  c.c.t.TrainingSystemApplication - The following profiles are active: dev 
+33750 [restartedMain] INFO  c.c.t.TrainingSystemApplication - Started TrainingSystemApplication in 32.323 seconds (JVM running for 36.026) 
